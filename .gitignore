@@ -1,0 +1,21 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+backend/.env
+
+# Docker / Database
+pgdata/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
